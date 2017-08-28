@@ -1,3 +1,4 @@
 new file 
 aaaaa
+bbbb
 add new line
